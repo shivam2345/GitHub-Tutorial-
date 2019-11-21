@@ -1,4 +1,4 @@
-# GitHub-Tutorial-
+# GitHub-Tutorial
 Women in Computer Science: Introduction to Git tutorial 
 
 ## Set-up: installing and configuring git (steps 0.1 through 0.5)
