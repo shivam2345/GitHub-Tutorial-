@@ -1,4 +1,4 @@
-##Mad Libs Theater 
+Mad Libs Theater 
 
 ELF: Hi Santa.
 
