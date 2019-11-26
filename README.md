@@ -64,3 +64,4 @@ git config --global user.email "jane@l337.com"
 
 ```
 Reference from : https://github.com/github-fun/commands/blob/master/1-repo.md
+Git Hub cheat sheet : Git Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf
