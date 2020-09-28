@@ -2,7 +2,7 @@
 
 ELF: Hi Santa.
 
-SANTA: Hello [Type of Dessert].
+SANTA: Hello Peach Cobler.
 
 ELF: You’re looking at me like I’m on your naughty list.
 
