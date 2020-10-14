@@ -3,7 +3,7 @@
 
 ELF: Hi Santa.
 
-SANTA: Hello Chocolate Shake.
+SANTA: Hello Apple Pie.
 
 ELF: You’re looking at me like I’m on your naughty list.
 
